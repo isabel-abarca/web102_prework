@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/SbPgdPs"  ><a href="//imgur.com/a/SbPgdPs">Codepath - WEB102 Prework - Summer 26</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<!-- <img src='https://imgur.com/a/codepath-web102-prework-summer-26-SbPgdPs' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/SbPgdPs"  ><a href="//imgur.com/a/SbPgdPs">Codepath - WEB102 Prework - Summer 26</a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... [LICEcap](https://www.cockos.com/licecap/) for Windows
@@ -34,11 +32,11 @@ GIF created with ... [LICEcap](https://www.cockos.com/licecap/) for Windows
 
 * [x] I learned that I only know the basics of JS and got to explore useful methods to use as I continue my web developement journey. It was a good challenge to implement these new methods.
 
-[] I plan to expand this website with JS further to make it look nicer and potentially have new features like enabling searching, having seperate pages for backers that want to sponsor a game, and showcasing gameplay.
+* [ ] I plan to expand this website with JS further to make it look nicer and potentially have new features like enabling searching, having seperate pages for backers that want to sponsor a game, and showcasing gameplay.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Isabel Abarca]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
